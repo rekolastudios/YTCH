@@ -32,7 +32,7 @@ control.addEventListener("mouseleave", function () {
 function getChannelName(channel) {
     let name = "...";
     switch (channel) {
-        case 1: name = "Sci & Tech"; break;
+        case 1: name = "Rekola"; break;
         case 2: name = "Travel"; break;
         case 3: name = "Food"; break;
         case 4: name = "Architecture"; break;
